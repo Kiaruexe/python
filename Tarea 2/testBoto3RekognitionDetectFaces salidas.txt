@@ -1,0 +1,22 @@
+{'FaceDetails': [{'BoundingBox': {'Width': 0.5425159335136414, 'Height': 0.7585114240646362, 'Left': 0.19332367181777954, 'Top': 0.1455496996641159}, 'AgeRange': {'Low': 24, 'High': 30}, 'Smile': {'Value': True, 'Confidence': 99.80865478515625}, 'Eyeglasses': {'Value': False, 'Confidence': 99.99925994873047}, 'Sunglasses': {'Value': False, 'Confidence': 99.9997787475586}, 'Gender': {'Value': 'Female', 'Confidence': 99.98287963867188}, 'Beard': {'Value': False, 'Confidence': 99.06271362304688}, 'Mustache': {'Value': False, 'Confidence': 99.90489959716797}, 'EyesOpen': {'Value': True, 'Confidence': 99.82601165771484}, 'MouthOpen': {'Value': True, 'Confidence': 99.84619903564453}, 'Emotions': [{'Type': 'HAPPY', 'Confidence': 100.0}, {'Type': 'SURPRISED', 'Confidence': 0.028818845748901367}, {'Type': 'CALM', 'Confidence': 0.0051021575927734375}, {'Type': 'CONFUSED', 'Confidence': 0.0026226043701171875}, {'Type': 'DISGUSTED', 'Confidence': 0.0018775463104248047}, {'Type': 'SAD', 'Confidence': 0.0003039836883544922}, {'Type': 'FEAR', 'Confidence': 0.0002384185791015625}, {'Type': 'ANGRY', 'Confidence': 0.0001728534698486328}], 'Landmarks': [{'Type': 'eyeLeft', 'X': 0.3720873296260834, 'Y': 0.46672186255455017}, {'Type': 'eyeRight', 'X': 0.6235265135765076, 'Y': 0.4662960469722748}, {'Type': 'mouthLeft', 'X': 0.3906378448009491, 'Y': 0.7228468060493469}, {'Type': 'mouthRight', 'X': 0.6005100607872009, 'Y': 0.7218956351280212}, {'Type': 'nose', 'X': 0.5222544074058533, 'Y': 0.6066378355026245}, {'Type': 'leftEyeBrowLeft', 'X': 0.2693493366241455, 'Y': 0.40501973032951355}, {'Type': 'leftEyeBrowRight', 'X': 0.4339401423931122, 'Y': 0.3904750943183899}, {'Type': 'leftEyeBrowUp', 'X': 0.3565714359283447, 'Y': 0.3762435019016266}, {'Type': 'rightEyeBrowLeft', 'X': 0.5773839950561523, 'Y': 0.3906327486038208}, {'Type': 'rightEyeBrowRight', 'X': 0.7055734395980835, 'Y': 0.4044095575809479}, {'Type': 'rightEyeBrowUp', 'X': 0.6455163955688477, 'Y': 0.3763557970523834}, {'Type': 'leftEyeLeft', 'X': 0.32381322979927063, 'Y': 0.4649379849433899}, {'Type': 'leftEyeRight', 'X': 0.42129918932914734, 'Y': 0.4686122536659241}, {'Type': 'leftEyeUp', 'X': 0.3726756274700165, 'Y': 0.4537542164325714}, {'Type': 'leftEyeDown', 'X': 0.3729136288166046, 'Y': 0.4778653085231781}, {'Type': 'rightEyeLeft', 'X': 0.5730236172676086, 'Y': 0.4684391915798187}, {'Type': 'rightEyeRight', 'X': 0.6641759276390076, 'Y': 0.4642762541770935}, {'Type': 'rightEyeUp', 'X': 0.6249175667762756, 'Y': 0.45338886976242065}, {'Type': 'rightEyeDown', 'X': 0.621758222579956, 'Y': 0.4773160219192505}, {'Type': 'noseLeft', 'X': 0.45826297998428345, 'Y': 0.6326730847358704}, {'Type': 'noseRight', 'X': 0.5509493947029114, 'Y': 0.6324642896652222}, {'Type': 'mouthUp', 'X': 0.5064120292663574, 'Y': 0.6938204169273376}, {'Type': 'mouthDown', 'X': 0.5019433498382568, 'Y': 0.7704744935035706}, {'Type': 'leftPupil', 'X': 0.3720873296260834, 'Y': 0.46672186255455017}, {'Type': 'rightPupil', 'X': 0.6235265135765076, 'Y': 0.4662960469722748}, {'Type': 'upperJawlineLeft', 'X': 0.18241488933563232, 'Y': 0.4631844758987427}, {'Type': 'midJawlineLeft', 'X': 0.2368186116218567, 'Y': 0.742505669593811}, {'Type': 'chinBottom', 'X': 0.4893912672996521, 'Y': 0.9020494222640991}, {'Type': 'midJawlineRight', 'X': 0.6798105239868164, 'Y': 0.7418162822723389}, {'Type': 'upperJawlineRight', 'X': 0.7288922667503357, 'Y': 0.4628516733646393}], 'Pose': {'Roll': 0.20720067620277405, 'Yaw': 6.804199695587158, 'Pitch': 0.02054401859641075}, 'Quality': {'Brightness': 73.67445373535156, 'Sharpness': 97.45164489746094}, 'Confidence': 99.99896240234375, 'FaceOccluded': {'Value': False, 'Confidence': 99.8426742553711}, 'EyeDirection': {'Yaw': -0.45457643270492554, 'Pitch': 3.1645760536193848, 'Confidence': 99.99891662597656}}], 'ResponseMetadata': {'RequestId': '27d6b566-7f5f-4308-bbf2-8c0d97e1c536', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '27d6b566-7f5f-4308-bbf2-8c0d97e1c536', 'content-type': 'application/x-amz-json-1.1', 'content-length': '3508', 'date': 'Mon, 10 Nov 2025 18:28:17 GMT'}, 'RetryAttempts': 0}}
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+--- Información de la cara 1 ---
+Rango de Edad: 24 - 30
+Género: Female
+Emociones detectadas:
+  HAPPY: 100.00%
+  SURPRISED: 0.03%
+  CALM: 0.01%
+  CONFUSED: 0.00%
+  DISGUSTED: 0.00%
+  SAD: 0.00%
+  FEAR: 0.00%
+  ANGRY: 0.00%
+Confianza en la detección de la cara: 100.00%
