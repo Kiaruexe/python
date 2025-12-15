@@ -1,3 +1,7 @@
+#Verificar si una cadena es un palíndromo.
+#Crea una función que verifique si una cadena de texto es un palíndromo (se lee igual
+#de izquierda a derecha que de derecha a izquierda).
+
 def esPalindromo(cadena):
     # Convertimos a minusculas y eliminamos espacios
     texto = cadena.lower().replace(" ", "")
