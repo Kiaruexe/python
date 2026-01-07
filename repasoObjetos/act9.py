@@ -8,7 +8,7 @@ class Empleado:
         self.salario = salario
 
     def calcular_bonus(self):
-        bonus = self.salario * 0.10  # 10% del salario como bono
+        bonus = self.salario * 0.10  
         return bonus
     
 class Vendedor(Empleado):
@@ -18,7 +18,7 @@ class Vendedor(Empleado):
 
     def calcular_bonus(self):
         bonus_base = super().calcular_bonus()
-        bonus_ventas = self.ventas_realizadas * 0.05  # 5% de las ventas como bono adicional
+        bonus_ventas = self.ventas_realizadas * 0.05
         return bonus_base + bonus_ventas
 # Ejemplo
 empleado1 = Empleado("Laura", 50000)

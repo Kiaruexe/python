@@ -12,14 +12,14 @@ class Perro(Animal):
         super().__init__(nombre, edad)
 
     def hacer_sonido(self):
-        print(f"{self.nombre} dice: ¡Guau Guau!")
+        print(f"{self.nombre} dice: Guau")
         
 class Gato(Animal):
     def __init__(self, nombre, edad):
         super().__init__(nombre, edad)
 
     def hacer_sonido(self):
-        print(f"{self.nombre} dice: ¡Miau Miau!")
+        print(f"{self.nombre} dice: Miau")
         
 # Ejemplo
 perro1 = Perro("Rex", 3)
